@@ -1,0 +1,35 @@
+.input{
+    margin-left:35%;
+    margin-top: 1%;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1%;
+    margin-left: 10%;
+    border-radius: 2%;
+    width: 80%;
+    height: 70%;
+}
+img{
+    width: 400px;
+    height: 500px;
+    margin-top: 8%;
+    margin-left: 20%;
+    padding: auto;
+    border: 1px solid #ced7d8;
+    background-color: #f9f9f9;
+}
+#image{
+    width: 400px;
+    height: 500px;
+}
+#detail{
+    width: 400px;
+    height: 500px;
+    margin-top: 3%;
+    margin-left: 20%;
+    border: 1px solid #ced7d8;
+    background-color: #f9f9f9;
+    padding-left: 3%;
+}
