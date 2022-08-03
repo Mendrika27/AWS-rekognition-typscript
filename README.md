@@ -1,0 +1,2 @@
+# AWS-rekognition-typscript
+ 
